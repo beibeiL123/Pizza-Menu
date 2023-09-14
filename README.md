@@ -1,10 +1,16 @@
 # Pizza-Menu
 React pizza-menu webpage
 
-HomePage: 
-![meun page](https://github.com/beibeiL123/Pizza-Menu/images/openPage.png)
+HomePage:
+<h1>
+  <img src="/images/openPage.png">
+</h1>
 when the store closed: 
-![close page](https://github.com/beibeiL123/Pizza-Menu/images/closedPage.png)
+<h1>
+  <img src="/images/closedPage.png">
+</h1>
 when the Meun needs to be update: 
-![workon menu page](https://github.com/beibeiL123/Pizza-Menu/images/workonMenuPage.png)
+<h1>
+  <img src="/images/workonMenuPage.png">
+</h1>
 
